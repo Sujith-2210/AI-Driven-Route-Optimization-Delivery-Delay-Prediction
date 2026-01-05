@@ -74,8 +74,7 @@ Delivery Delay Prediction/
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd "Delivery Delay Prediction"
+git clone https://github.com/Sujith-2210/AI-Driven-Route-Optimization-Delivery-Delay-Prediction.git
 ```
 
 ### 2. Install dependencies
